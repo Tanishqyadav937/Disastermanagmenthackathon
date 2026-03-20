@@ -10,7 +10,7 @@ This is a **real-time disaster management** web application designed to help use
 
 ### 🔴 SOS Alert System
 
-- Users can send an **SOS alert** with their **real-time location**.
+- Users can send an **SOS alert** with their **real-time location**
 - If offline, the **last known location** is stored and sent when back online.
 - Emergency contacts and authorities receive immediate notifications.
 
